@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "8980495475",
+    "firebase_url": "https://whoseshout-13aa6.firebaseio.com",
+    "project_id": "whoseshout-13aa6",
+    "storage_bucket": "whoseshout-13aa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8980495475:android:92d6b9895c41c07bb07e06",
+        "android_client_info": {
+          "package_name": "com.leechuyem.basketball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8980495475-nhvd68lommuio1tuk95urg6k9t073i56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeIrbfph7zCHKb6UmQm63s3ZTtJ5b6OOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8980495475-nhvd68lommuio1tuk95urg6k9t073i56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8980495475:android:7e816afe13c12d71b07e06",
+        "android_client_info": {
+          "package_name": "com.leechuyem.whoseshout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8980495475-nhvd68lommuio1tuk95urg6k9t073i56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeIrbfph7zCHKb6UmQm63s3ZTtJ5b6OOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8980495475-nhvd68lommuio1tuk95urg6k9t073i56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
